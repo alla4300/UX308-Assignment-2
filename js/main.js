@@ -1,6 +1,6 @@
 const aChoices = ["yes", "no", "maybe", "most definitely", "I think so"];
 
-document.getElementById("magic8ball").addEventListener("submit", (evt)=>{
+document.getElementById("magnificent8ball").addEventListener("submit", (evt)=>{
     evt.preventDefault();
     const nChoice = Math.floor(Math.random() * aChoices.length);
     document.getElementById("answer").innerHTML = aChoices[nChoice];
