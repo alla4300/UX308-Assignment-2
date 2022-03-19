@@ -1,4 +1,4 @@
-# Simple magic 8 ball app to show as a PWA
+# Simple magnificent  8 ball app to show as a PWA
 
 1. run with live server
 2. deploy to github pages
